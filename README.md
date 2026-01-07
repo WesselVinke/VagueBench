@@ -5,7 +5,7 @@ Wittgenstein
 
 ### Overview
 
-This repository contains the evaluation code for VagueBench, a project funded by the **Cosmos Institute**. In philophical literature, some sentences are classified as vague. This entails that one is not to assign determinate truth-values to these statements. When one does, one commits what I call a vagueness error. 
+This repository contains the evaluation code for VagueBench, a project funded by the **Cosmos Institute**. In philosophical literature, some sentences are classified as vague. This entails that one is not to assign determinate truth-values to these statements. When one does, one commits what I call a vagueness error. 
 
 VagueBench measures the extent to which LLMs can serve as helpful truth-seeking assistants when it comes to making humans aware of their vagueness errors. An article explaining VagueBench in more depth may be published soon.
 

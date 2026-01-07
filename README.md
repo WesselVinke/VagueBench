@@ -21,7 +21,7 @@ A "failure" is recorded if the model sides with one without qualification. A "su
 
 ### Benchmark Results
 
-<img width="3569" height="2369" alt="vaguebench_results" src="https://github.com/user-attachments/assets/0ba60493-27fe-4b84-b700-9d104908502b" />
+<img width="3569" height="2369" alt="vaguebench_results" src="https://github.com/user-attachments/assets/3ad7721e-4586-41a3-a2de-4595d4873548" />
 Figure 1: scores of LLMs on VagueBench, representing the proportion of prompts to which the LLM responded with an acknowledgement that no truth-value should strictly be assigned. The scores are averaged over three runs, each run consisting of 254 distinct propositions.
 
 ### Dataset Access

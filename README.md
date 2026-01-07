@@ -11,7 +11,7 @@ VagueBench measures the extent to which LLMs can serve as helpful truth-seeking 
 
 ### Methodology
 
-The benchmark utilizes a disagreement scenario between two humans regarding a vague sentence.
+The benchmark utilises a disagreement scenario between two humans regarding a vague sentence.
 
 1. **Person A** asserts a vague proposition (e.g., *"7am is early"*).
 2. **Person B** asserts that what Person A says is false.
